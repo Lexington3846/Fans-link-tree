@@ -24,10 +24,10 @@
     {
       "id": 3,
       "name": "YouTube",
-      "url": "",
+      "url": "https://youtube.com/@flyboysirius?si=oggNJIVMv9fuN3mH",
       "icon": "fab fa-youtube",
-      "subtitle": "Add your YouTube link",
-      "color": "#FF0000"
+      "subtitle": "Follow my YouTube",
+      "color": "#ff0000"
     },
     {
       "id": 4,
@@ -48,9 +48,9 @@
     {
       "id": 6,
       "name": "TikTok",
-      "url": "",
+      "url": "https://www.tiktok.com/@flyboysirius?_r=1&_t=ZS-94WBSVihUN3",
       "icon": "fab fa-tiktok",
-      "subtitle": "Add your TikTok link",
+      "subtitle": "Follow my TikTok",
       "color": "#000000"
     },
     {
@@ -64,10 +64,10 @@
     {
       "id": 8,
       "name": "Reincarnators",
-      "url": "",
+      "url": "https://whatsapp.com/channel/0029Vb6xooEJJhzSNlleIs3I",
       "icon": "fas fa-fire",
-      "subtitle": "Add your community link",
-      "color": "#f59e0b"
+      "subtitle": "Join my Fanbase Community “Reincarnators”",
+      "color": "#ff4015"
     },
     {
       "id": 9,
@@ -86,5 +86,5 @@
       "color": "#01c7fc"
     }
   ],
-  "lastUpdated": "2026-03-08T13:02:28.206Z"
+  "lastUpdated": "2026-03-08T13:07:20.820Z"
 }
