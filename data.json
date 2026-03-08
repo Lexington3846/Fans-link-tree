@@ -8,18 +8,18 @@
     {
       "id": 1,
       "name": "Spotify",
-      "url": "",
+      "url": "https://open.spotify.com/artist/0iFDdqfxBXk0hwwBz1mzGF?si=luklWr4bQxatn6MkOCdICA",
       "icon": "fab fa-spotify",
-      "subtitle": "Add your Spotify link",
-      "color": "#1DB954"
+      "subtitle": "Stream my music on Spotify",
+      "color": "#1db954"
     },
     {
       "id": 2,
       "name": "Apple Music",
-      "url": "",
+      "url": "https://music.apple.com/us/artist/flyboy-sirius/1676759837",
       "icon": "fab fa-apple",
-      "subtitle": "Add your Apple Music link",
-      "color": "#FA243C"
+      "subtitle": "Stream my music on Apple Music",
+      "color": "#fa243c"
     },
     {
       "id": 3,
@@ -68,7 +68,23 @@
       "icon": "fas fa-fire",
       "subtitle": "Add your community link",
       "color": "#f59e0b"
+    },
+    {
+      "id": 9,
+      "name": "Audiomack",
+      "url": "https://audiomack.com/flyboysirius",
+      "icon": "fas fa-link",
+      "subtitle": "Stream my Music on Audiomack",
+      "color": "#d38301"
+    },
+    {
+      "id": 10,
+      "name": "Boomplay",
+      "url": "https://www.boomplay.com/artists/66007435?srModel=COPYLINK&srList=WEB&share_content=artist&share_channel=copylink&share_platform=web",
+      "icon": "fas fa-link",
+      "subtitle": "Stream my music on Boomplay",
+      "color": "#01c7fc"
     }
   ],
-  "lastUpdated": "2026-03-08T12:50:15.716Z"
+  "lastUpdated": "2026-03-08T13:02:28.206Z"
 }
