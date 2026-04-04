@@ -24,9 +24,9 @@
     {
       "id": 3,
       "name": "YouTube",
-      "url": "https://youtube.com/@flyboysirius?si=t2npbTebwLTJovjN",
+      "url": "https://youtube.com/shorts/ojFYpbR3O9w?si=PscM_xZHZBx_9MHn",
       "icon": "fab fa-youtube",
-      "subtitle": "Follow my YouTube",
+      "subtitle": "Watch my new video here",
       "color": "#ff0000"
     },
     {
@@ -72,7 +72,7 @@
     {
       "id": 9,
       "name": "Audiomack",
-      "url": "https://audiomack.com/flyboysirius",
+      "url": "https://audiomack.com/flyboysirius/song/party-non-stop?share-user-id=13910607",
       "icon": "fas fa-link",
       "subtitle": "Stream my music new music here",
       "color": "#ff6a00"
@@ -88,11 +88,11 @@
     {
       "id": 11,
       "name": "SoundCloud",
-      "url": "https://on.soundcloud.com/AnXnj8vgSOSHUgzp2n",
+      "url": "https://on.soundcloud.com/dJRLfHR6tpSABxW50E",
       "icon": "fas fa-link",
       "subtitle": "Stream my new music here",
       "color": "#000000"
     }
   ],
-  "lastUpdated": "2026-04-04T03:53:57.194Z"
+  "lastUpdated": "2026-04-04T03:59:22.629Z"
 }
